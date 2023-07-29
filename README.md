@@ -1,3 +1,3 @@
 # Travel.com
-Travelling Website using HTML, CSS & JAVASCRIPT.
-This is the Front-end of an Travelling Website Through Which user can be able to select anyone of the given packages.      
+This is the Front-end of an Travelling Website Through, Which a user can be able to select anyone of the given packages to travel Anywhere.  
+This Website is Created by Using Such Technologies: HTML, CSS & JAVASCRIPT.
